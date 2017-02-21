@@ -14,3 +14,5 @@ Installation
 - set DB_DATABASE
 - set DB_USERNAME
 - set DB_PASSWORD
+- type php artisan migrate
+- type php artisan serve, to run application
